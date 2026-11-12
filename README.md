@@ -4,6 +4,12 @@ A modern, full-stack social media application built with **Next.js, React, and T
 
 The project focuses on building a complete web application while exploring modern Next.js development patterns, server-side operations, database integration, and responsive UI design.
 
+## 📸 Screenshots
+
+### Homepage – Dark Mode
+
+![Socially Homepage](./screenshots/homepage-dark.png)
+
 ## ✨ Features
 
 ### 🔐 Authentication
